@@ -14,7 +14,7 @@
                 "__SWITCH__"
             ],
             "compilerPath": "${DEVKITPRO}/devkitA64/bin/aarch64-none-elf-g++",
-            "cStandard": "gnu18",
+            "cStandard": "gnu17",
             "cppStandard": "gnu++20",
             "intelliSenseMode": "gcc-x64"
         }
